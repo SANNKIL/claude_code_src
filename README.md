@@ -27,18 +27,6 @@
 npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-/claude-code-2.1.88.tgz
 ```
 
-<img width="626" height="370" alt="图片" src="https://github.com/user-attachments/assets/bcc1d094-f19d-4bd7-b53b-898399c6d117" />
-
-
-> 手慢无，不知道腾讯云的镜像缓存什么时候也没了
-
-
-可以关注我的公众号，行业第一手信息，都会发在文章中
-
-![2721974d3429094880d22b9204d27d69](https://github.com/user-attachments/assets/b13fc57e-fa8a-4072-b29c-abbdde136aa8)
-
-
----
 
 ## 项目结构概览
 
@@ -82,14 +70,4 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 3. 处理 `bun:bundle` 宏与 feature flags。
 4. 验证核心命令的运行情况。
 
----
 
-## 致谢
-
-感谢发布时未移除的 **Source Map**，让这份精致的工程结构得以重现。
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ponponon/claude_code_src&type=Date)](https://star-history.com/#ponponon/claude_code_src&Date)
